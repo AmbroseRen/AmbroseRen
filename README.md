@@ -1,5 +1,7 @@
 ### Hi there 👋
 # resume #
+--get good idea to leave a massage
+rensi.ys168.com
 <!--
 **AmbroseRen/AmbroseRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
