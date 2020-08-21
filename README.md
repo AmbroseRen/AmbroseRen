@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[！[Anurag的github统计信息]（https://github-readme-stats.vercel.app/api？AmbroseRen = anuraghazra）]（https://github.com/anuraghazra/github-readme-stats）
