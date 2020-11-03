@@ -1,6 +1,7 @@
 ### Hi there 👋
 # resume #
 > 《管子》曰：明一者皇,察道者帝,通德者王,谋得兵胜者霸。
+> 
 > 现实的抽象是语言，语言的抽象是程序，程序的抽象是数理逻辑，数理逻辑的抽象是超越认知的真理。
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmbroseRen&show_icons=true&theme=radical)](https://github.com/AmbroseRen/github-readme-stats)
 
