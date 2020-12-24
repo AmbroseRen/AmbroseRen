@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 I am Soft Engineer and the main area is the Java direction.
 
-<p align="center"> 
+<p align="center" href="https://github.com/sagar-viradiya/sagar-viradiya/blob/master/README.md"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AmbroseRen/count.svg" />
 </p>
